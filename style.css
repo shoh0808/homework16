@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:salmon;
+}
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+.rang{
+    color: yellow;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-size: 30px;
+}
+.bigbox{
+    display: flex;
+    gap: 80px;
+    
+}
+.box , .box2  {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 20px 0;
+}
+.box img{
+    width: 200px;
+    height: 100px;
+}
+.razmir{
+    font-size: 20px;
+    
+}
+p{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+.box2 img{
+    
+    width: 200px;
+    height: 100px;
+}
+.box3 img{
+    width: 200px;
+    height: 100px;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 20px 0;
+}
+.bigbox2{
+   display: flex;
+   gap: 80px;
+   margin: 50px 0;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.box4 img{
+    width: 200px;
+    height: 100px;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.box5 img{
+    width: 200px;
+    height: 100px;
+} 
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.box6 img{
+    width: 200px;
+    height: 100px;
+}
